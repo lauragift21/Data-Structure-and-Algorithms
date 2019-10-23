@@ -39,3 +39,32 @@ queue.dequeue();
 // => 1
 // [2,3,4,5]
 ```
+
+### Linked List
+A linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list.
+
+Keywords: *pointer* *head* and *tail*
+
+```js
+const linkedList = {
+  head: {
+    value: 1
+    next: {
+      value: 2
+      next: {
+        value: 3
+        next: null
+      }
+    }
+  }
+}
+```
+
+### Hash Tables
+
+
+### Arrays and Strings
+
+
+
+## Implementation
